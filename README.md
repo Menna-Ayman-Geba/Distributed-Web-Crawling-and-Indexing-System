@@ -3,10 +3,14 @@ This project focuses on building a distributed web crawling and indexing system 
 
 
 ##steps to run code:
-1.make sure you installed the follwing liabraries
+1.make sure you installed the follwing liabraries:
+
 -pip install mpi4py
+
 -pip install redis 
+
 -pip install whoosh (will be needed in indexer node)
+
 -pip install scrapy (will be needed in crawler node)
 
 
