@@ -30,8 +30,5 @@ urllib3            1.26.20
 wheel              0.45.1
 Whoosh             2.7.4
 ```
-## Steps to run
-```bash
-
-```
-## YouTube link (Demo)
+## Demo link
+https://drive.google.com/drive/folders/1-QefOENL5haTV3GFhrOninAfil2PmJSm?usp=drive_link
